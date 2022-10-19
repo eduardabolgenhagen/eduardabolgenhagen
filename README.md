@@ -1,11 +1,9 @@
-### Olá! Sou a Eduarda 👋
+### Hi! I'm Eduarda 👋
 
 ##
-
-Um pouco de mim...
-- 🔭 Trabalho na empresa WEG ...
-- 🌱 Atualmente estou fazendo Técnico em Programação De Sistemas da Informação ...
-- 💻 Cursando Análise e Desenvolvimento de Sistemas - PUCPR ...
+- 🔭 Working at WEG
+- 🌱 Information Systems Programming Technician
+- 💻 Analysis and Systems Development - PUCPR
 
 ##
 
