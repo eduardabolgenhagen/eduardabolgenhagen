@@ -21,7 +21,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="right" height="100" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_Us1SpQf2.png">
-  <img align="center" height="30" width="30" src="[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"> 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
  
   ##
