@@ -16,7 +16,7 @@
   <img align="right" height="100" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_Us1SpQf2.png">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,ts,angular,discord,docker,figma,firebase,java,mysql,nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,angular,react,java,nodejs,firebase,mysql,discord,docker,figma,discord" />
   </a>
 </p>
 </div>
