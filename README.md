@@ -13,8 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardabolgenhagen&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" height="100" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_Us1SpQf2.png">
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,ts,angular,react,java,nodejs,firebase,mysql,docker,figma" />
   </a>
